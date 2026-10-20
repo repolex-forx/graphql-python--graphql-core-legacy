@@ -1,0 +1,11 @@
+{
+  "org": "graphql-python",
+  "repo": "graphql-core-legacy",
+  "versions": [
+    {
+      "commit": "6e2fbccdec655ce9122b84d3808c14242c4e6b96",
+      "tag": "v2.3.2",
+      "parsed_at": "2026-10-20T23:46:01.241051+00:00"
+    }
+  ]
+}
