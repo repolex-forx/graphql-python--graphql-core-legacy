@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/graphql-core-legacy/commit/6e2fbccdec655ce9122b84d3808c14242c4e6b96",
       "git:hexsha": "6e2fbccdec655ce9122b84d3808c14242c4e6b96",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.3.2"
     },
     {
